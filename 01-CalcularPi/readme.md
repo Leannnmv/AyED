@@ -1,3 +1,5 @@
 # Trabajo Práctico Nº1 – "Calcular π"
-Compilador: g++
-SO: Ubuntu 23.04
+-Primera entrega del Trabajo Práctico.
+
+-Compilador: g++
+-SO: Ubuntu 23.04
